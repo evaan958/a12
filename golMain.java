@@ -187,3 +187,8 @@ public class golMain {
         
     }    
 }
+
+
+if (p+j < 0 || p+j+1 >= row || k+i < 0 || k+i+1 >= col) {
+    continue;
+}
